@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\arrays\methodtask1\methodtask1\bin\Debug\net6.0\methodtask1.exe
+C:\Users\user\Desktop\arrays\methodtask1\methodtask1\bin\Debug\net6.0\methodtask1.deps.json
+C:\Users\user\Desktop\arrays\methodtask1\methodtask1\bin\Debug\net6.0\methodtask1.runtimeconfig.json
+C:\Users\user\Desktop\arrays\methodtask1\methodtask1\bin\Debug\net6.0\methodtask1.dll
+C:\Users\user\Desktop\arrays\methodtask1\methodtask1\bin\Debug\net6.0\methodtask1.pdb
+C:\Users\user\Desktop\arrays\methodtask1\methodtask1\obj\Debug\net6.0\methodtask1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\arrays\methodtask1\methodtask1\obj\Debug\net6.0\methodtask1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\arrays\methodtask1\methodtask1\obj\Debug\net6.0\methodtask1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\arrays\methodtask1\methodtask1\obj\Debug\net6.0\methodtask1.AssemblyInfo.cs
+C:\Users\user\Desktop\arrays\methodtask1\methodtask1\obj\Debug\net6.0\methodtask1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\arrays\methodtask1\methodtask1\obj\Debug\net6.0\methodtask1.dll
+C:\Users\user\Desktop\arrays\methodtask1\methodtask1\obj\Debug\net6.0\refint\methodtask1.dll
+C:\Users\user\Desktop\arrays\methodtask1\methodtask1\obj\Debug\net6.0\methodtask1.pdb
+C:\Users\user\Desktop\arrays\methodtask1\methodtask1\obj\Debug\net6.0\methodtask1.genruntimeconfig.cache
+C:\Users\user\Desktop\arrays\methodtask1\methodtask1\obj\Debug\net6.0\ref\methodtask1.dll

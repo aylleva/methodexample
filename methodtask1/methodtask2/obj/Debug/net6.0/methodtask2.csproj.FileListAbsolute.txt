@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\arrays\methodtask1\methodtask2\bin\Debug\net6.0\methodtask2.exe
+C:\Users\user\Desktop\arrays\methodtask1\methodtask2\bin\Debug\net6.0\methodtask2.deps.json
+C:\Users\user\Desktop\arrays\methodtask1\methodtask2\bin\Debug\net6.0\methodtask2.runtimeconfig.json
+C:\Users\user\Desktop\arrays\methodtask1\methodtask2\bin\Debug\net6.0\methodtask2.dll
+C:\Users\user\Desktop\arrays\methodtask1\methodtask2\bin\Debug\net6.0\methodtask2.pdb
+C:\Users\user\Desktop\arrays\methodtask1\methodtask2\obj\Debug\net6.0\methodtask2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\arrays\methodtask1\methodtask2\obj\Debug\net6.0\methodtask2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\arrays\methodtask1\methodtask2\obj\Debug\net6.0\methodtask2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\arrays\methodtask1\methodtask2\obj\Debug\net6.0\methodtask2.AssemblyInfo.cs
+C:\Users\user\Desktop\arrays\methodtask1\methodtask2\obj\Debug\net6.0\methodtask2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\arrays\methodtask1\methodtask2\obj\Debug\net6.0\methodtask2.dll
+C:\Users\user\Desktop\arrays\methodtask1\methodtask2\obj\Debug\net6.0\refint\methodtask2.dll
+C:\Users\user\Desktop\arrays\methodtask1\methodtask2\obj\Debug\net6.0\methodtask2.pdb
+C:\Users\user\Desktop\arrays\methodtask1\methodtask2\obj\Debug\net6.0\methodtask2.genruntimeconfig.cache
+C:\Users\user\Desktop\arrays\methodtask1\methodtask2\obj\Debug\net6.0\ref\methodtask2.dll
